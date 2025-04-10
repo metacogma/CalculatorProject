@@ -6,7 +6,6 @@ A simple Java calculator application that performs basic arithmetic operations (
 
 - `Calculator.java`: Contains the core calculator functionality
 - `Main.java`: Command-line interface for the calculator
-- `CalculatorTest.java`: JUnit tests for the calculator
 
 ## Features
 
@@ -48,7 +47,3 @@ Follow the on-screen prompts to:
 1. Choose an operation
 2. Enter the numbers
 3. View the result
-
-## License
-
-This project is open source and available under the MIT License.
